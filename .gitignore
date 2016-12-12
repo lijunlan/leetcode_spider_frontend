@@ -4,6 +4,7 @@ jspm_packages
 npm-debug.*
 link-checker-results.txt
 *.min.js
+*.min.css
 *.js.map
 e2e/**/*.js
 e2e/**/*.js.map
@@ -12,3 +13,5 @@ _temp
 # Mac OS
 .DS_Store
 
+clean-css
+clean-js
