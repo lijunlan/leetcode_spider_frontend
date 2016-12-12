@@ -1,0 +1,44 @@
+{
+  "name": "leetcode_spider",
+  "version": "1.0.0",
+  "author": "lijunlan888@gmail.com",
+  "description": "front end of spider console",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "",
+    "@angular/compiler": "",
+    "@angular/core": "",
+    "@angular/forms": "",
+    "@angular/http": "",
+    "@angular/platform-browser": "",
+    "@angular/platform-browser-dynamic": "",
+    "@angular/router": "",
+    "@angular/upgrade": "",
+
+    "core-js": "",
+    "reflect-metadata": "",
+    "rxjs": "",
+    "zone.js": "",
+
+    "angular2-in-memory-web-api": "",
+    "bootstrap": "",
+
+    "gulp": "",
+    "gulp-concat": "",
+    "gulp-clean-css": "",
+    "gulp-rename": "",
+    "gulp-uglify": "",
+    "jshint": "",
+    "gulp-jshint": "",
+    "gulp-less": "",
+    "gulp-watch": ""
+  },
+  "devDependencies": {
+    "concurrently": "",
+    "lite-server": ""
+  }
+}
